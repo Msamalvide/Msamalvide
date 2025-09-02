@@ -10,5 +10,5 @@ Me encantan los retos de programación, los buenos mates, la música de fondo mi
 - JavaScript, TypeScript  
 
 ## 📫 Contáctame
-- [LinkedIn](- [LinkedIn](www.linkedin.com/in/martin-samalvide-233b0b30a))
+- [LinkedIn](www.linkedin.com/in/martin-samalvide-233b0b30a)
 - [Email](mailto:martinsamalvide3412@gmail.com)
